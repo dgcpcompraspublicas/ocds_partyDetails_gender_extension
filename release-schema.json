@@ -1,0 +1,22 @@
+{
+    "definitions": {
+      "Organization": {
+        "properties": {
+          "details": {
+            "properties": {
+              "gender": {
+                "title": "Gender",
+                "description": "For natural persons, it is their gender, for enterprises females have to have over 50% of shares, or be a manager.",
+                "type": "string",
+                "enum": [
+                    "female",
+                    "male",
+                    "not specified"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }

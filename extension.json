@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "gender"
+  },
+  "description": {
+    "en": "For natural persons, it is their gender, for enterprises females has to have over 50% of shares, or be a manager." 
+  },
+  "documentationUrl": {
+    "en": ""
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
