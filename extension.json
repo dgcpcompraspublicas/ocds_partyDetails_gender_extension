@@ -3,7 +3,7 @@
     "en": "gender"
   },
   "description": {
-    "en": "For natural persons, it is their gender, for enterprises females has to have over 50% of shares, or be a manager." 
+    "en": "For natural persons, it is their gender, for enterprises females has to have over 50% of shares, or be a manager."
   },
   "documentationUrl": {
     "en": "https://raw.githubusercontent.com/dgcpcompraspublicas/ocds_partyDetails_gender_extension/master/README.md"
